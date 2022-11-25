@@ -39,12 +39,33 @@
     }
   },
   "pick-up": {
+    "grocery": [
+      {
+        "id": 1,
+        "title": "",
+        "url": ""
+      }
+    ],
+    "storage": [
+      {
+        "id": 1,
+        "title": "",
+        "url": ""
+      }
+    ],
     "shovel": [
       {
         "id": 1,
         "title": "chartcss",
         "url": "https://chartscss.org/"
       }
-    ]  
+    ],
+    "miscs": [
+      {
+        "id": 1,
+        "title": "",
+        "url": ""
+      }
+    ]
   }
 }
