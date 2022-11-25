@@ -3,7 +3,10 @@
     {
       "id": 1,
       "subject": "html-basic",
-      "url": "https://web.dev/learn/html/"
+      "url": {
+        "webdev": "https://web.dev/learn/html/",
+        "mdn": "https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/HTML_basics"
+      }
     }
   ]
 }
