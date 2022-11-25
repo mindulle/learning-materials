@@ -37,5 +37,14 @@
     "vue-practical": {
       "vuejsorg": "https://vuejs.org/examples/#hello-world"
     }
+  },
+  "pick-up": {
+    "shovel": [
+      {
+        "id": 1,
+        "title": "chartcss",
+        "url": "https://chartscss.org/"
+      }
+    ]  
   }
 }
