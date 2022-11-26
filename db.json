@@ -1,44 +1,44 @@
 {
   "learn": {
-    "html-basic": {
+    "htmlBasic": {
       "webdev": "https://web.dev/learn/html/",
       "mdn": "https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/HTML_basics"
     },
-    "css-basic": {
+    "cssBasic": {
       "webdev": "https://web.dev/learn/css/",
       "mdn": "https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics"
     },
-    "css-practical": {
+    "cssPractical": {
       "webdev": "https://web.dev/tags/css/",
       "mdn": "https://developer.mozilla.org/en-US/docs/Web/CSS#reference"
     },
-    "js-basic": {
+    "jsBasic": {
       "javascriptinfo": "https://ko.javascript.info/#tab-1",
       "mdn": "https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/JavaScript_basics"
     },
-    "js-practical": {
+    "jsPractical": {
       "javascriptinfo": "https://ko.javascript.info/#tab-2",
       "mdn": "https://developer.mozilla.org/ko/docs/Learn/JavaScript"
     },
-    "ts-practical": {
+    "tsPractical": {
       "tyepscriptlang": "https://www.typescriptlang.org/cheatsheets"
     },
-    "react-basic": {
+    "reactBasic": {
       "reactjsorg": "https://ko.reactjs.org/docs/hello-world.html",
       "CRA": "https://create-react-app.dev/"
     },
-    "react-practical": {
+    "reactPractical": {
       "reactjsorg": "https://ko.reactjs.org/docs/accessibility.html",
       "vite": "https://vitejs-kr.github.io/"
     },
-    "vue-basic": {
+    "vueBasic": {
       "vuejsorg": "https://vuejs.org/guide/introduction.html"
     },
-    "vue-practical": {
+    "vuePractical": {
       "vuejsorg": "https://vuejs.org/examples/#hello-world"
     }
   },
-  "pick-up": {
+  "pickUp": {
     "grocery": [
       {
         "id": 1,
